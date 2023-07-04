@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travel-website-yadidiah/static/css/main.914028e6.css",
+    "main.js": "/travel-website-yadidiah/static/js/main.4fb0c718.js",
+    "static/media/videoo.mp4": "/travel-website-yadidiah/static/media/videoo.151fda7be5865627fc3f.mp4",
+    "static/media/video2.mp4": "/travel-website-yadidiah/static/media/video2.6e3e17f9629fdbe61e80.mp4",
+    "static/media/bali.jpg": "/travel-website-yadidiah/static/media/bali.bc8f457f5e4b55c7bc88.jpg",
+    "static/media/venice.jpg": "/travel-website-yadidiah/static/media/venice.f91affe14b74c7e62f4e.jpg",
+    "static/media/calgary.jpg": "/travel-website-yadidiah/static/media/calgary.076a84276c62ea3351b3.jpg",
+    "static/media/agra.jpg": "/travel-website-yadidiah/static/media/agra.b9ee31995c39b53530ec.jpg",
+    "static/media/Bohol.jpg": "/travel-website-yadidiah/static/media/Bohol.9dda8e708e88f29f9fff.jpg",
+    "static/media/paris.jpg": "/travel-website-yadidiah/static/media/paris.cc65a186e4fe559b37d8.jpg",
+    "static/media/Salisbury.jpg": "/travel-website-yadidiah/static/media/Salisbury.00a83dce080b5c38dc4d.jpg",
+    "index.html": "/travel-website-yadidiah/index.html",
+    "main.914028e6.css.map": "/travel-website-yadidiah/static/css/main.914028e6.css.map",
+    "main.4fb0c718.js.map": "/travel-website-yadidiah/static/js/main.4fb0c718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914028e6.css",
+    "static/js/main.4fb0c718.js"
+  ]
+}
